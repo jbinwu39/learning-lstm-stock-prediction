@@ -1,4 +1,4 @@
-# Learning LSTM Stock Prediction (AAPL)
+# Learning LSTM Stock Prediction 
 
 This repository is a learning-focused implementation of an LSTM (Long Short-Term Memory) neural network for time-series forecasting using historical stock prices.
 
