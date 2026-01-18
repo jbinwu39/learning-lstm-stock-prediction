@@ -1,6 +1,6 @@
 # Learning LSTM Stock Prediction (AAPL)
 
-This repository is a learning-focused implementation of an LSTM (Long Short-Term Memory) neural network for time-series forecasting using historical **Apple (AAPL)** stock prices.
+This repository is a learning-focused implementation of an LSTM (Long Short-Term Memory) neural network for time-series forecasting using historical stock prices.
 
 The goal of this project is to understand the end-to-end workflow for sequence modeling in deep learning, including data collection, preprocessing (scaling + windowing), model training, and evaluating predictions against real market prices.
 
